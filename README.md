@@ -1,5 +1,8 @@
 # API CRUD Desenvolvida utilizando Spring Boot 3
 
+## Curso Alura:
+https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java
+
 ## Tecnologias e ferramentas utilizadas:
 
 - Java 17
