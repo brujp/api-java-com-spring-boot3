@@ -14,3 +14,21 @@ https://cursos.alura.com.br/course/spring-boot-3-desenvolva-api-rest-java
 - Lombok
 - IntelliJ
 - Insomnia
+
+## TO DOS:
+### Cadastro de Médicos
+O sistema deve possuir uma funcionalidade de cadastro de médicos, na qual as seguintes informações deverão ser preenchidas:
+
+Nome
+
+E-mail
+
+Telefone
+
+CRM
+
+Especialidade (Ortopedia, Cardiologia, Ginecologia ou Dermatologia)
+
+Endereço completo (logradouro, número, complemento, bairro, cidade, UF e CEP)
+
+Todas as informações são de preenchimento obrigatório, exceto o número e o complemento do endereço.
